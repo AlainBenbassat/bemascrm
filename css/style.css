@@ -16,8 +16,9 @@ div#crm-container div.content {
 }
 
 .crm-submit-buttons button {
-  color: white;
-  background-color: #2b6d88;
+  color: white !important;
+  font-weight: bold;
+  background-color: #2b6d88 !important;
   height: 3em;
 }
 

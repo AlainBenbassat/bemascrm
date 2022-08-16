@@ -15,6 +15,13 @@ div#crm-container div.content {
   margin-bottom: 20px;
 }
 
+.crm-submit-buttons button {
+  color: white;
+  background-color: #2b6d88;
+  height: 3em;
+}
+
+
 
 
 

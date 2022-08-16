@@ -1,6 +1,20 @@
-.footer {
+footer {
+  color: white;
   background-color: #2b6d88;
 }
+
+div#crm-container div.label {
+  color: #333333;
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+
+div#crm-container div.content {
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
 
 
 

@@ -3,6 +3,10 @@ footer {
   background-color: #2b6d88;
 }
 
+#lang_dropdown_form_language {
+  margin-bottom: 0.8em;
+}
+
 div#crm-container div.label {
   color: #333333;
   display: block;

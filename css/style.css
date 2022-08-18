@@ -26,8 +26,8 @@ div#crm-container div.content {
   height: 3em;
 }
 
-.breadcrumb {
-  display: none;
+div.breadcrumb {
+  display: none !important;
 }
 
 

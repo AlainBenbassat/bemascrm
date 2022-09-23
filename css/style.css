@@ -30,5 +30,7 @@ div.breadcrumb {
   display: none !important;
 }
 
-
+.form-required {
+  color: red !important;
+}
 
